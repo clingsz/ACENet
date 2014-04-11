@@ -1,4 +1,4 @@
-TwinACE
+ACENet
 =======
 
 Fit the gene and regulator expressions of twins into modules
